@@ -1,3 +1,4 @@
+/*
 package com.lx.demo.corejava10.v2ch08.sourceAnnotations;
 
 import java.beans.*;
@@ -9,11 +10,13 @@ import javax.lang.model.element.*;
 import javax.tools.*;
 import javax.tools.Diagnostic.*;
 
+*/
 /**
  * This class is the processor that analyzes Property annotations.
  * @version 1.11 2012-01-26
  * @author Cay Horstmann
- */
+ *//*
+
 @SupportedAnnotationTypes("sourceAnnotations.Property")
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
 public class BeanInfoAnnotationProcessor extends AbstractProcessor
@@ -57,11 +60,13 @@ public class BeanInfoAnnotationProcessor extends AbstractProcessor
       return true;
    }
 
-   /**
+   */
+/**
     * Writes the source file for the BeanInfo class.
     * @param beanClassName the name of the bean class
     * @param props a map of property names and their annotations
-    */
+    *//*
+
    private void writeBeanInfoFile(String beanClassName, Map<String, Property> props)
       throws IOException
    {
@@ -128,3 +133,4 @@ public class BeanInfoAnnotationProcessor extends AbstractProcessor
       out.close();
    }
 }
+*/

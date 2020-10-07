@@ -1,3 +1,4 @@
+/*
 package com.lx.demo.corejava10.v2ch08.bytecodeAnnotations;
 
 import java.io.*;
@@ -5,20 +6,24 @@ import org.apache.bcel.*;
 import org.apache.bcel.classfile.*;
 import org.apache.bcel.generic.*;
 
+*/
 /**
  * Adds "entering" logs to all methods of a class that have the LogEntry annotation.
  * @version 1.10 2007-10-27
  * @author Cay Horstmann
- */
+ *//*
+
 public class EntryLogger
 {
    private ClassGen cg;
    private ConstantPoolGen cpg;
 
-   /**
+   */
+/**
     * Adds entry logging code to the given class.
     * @param args the name of the class file to patch
-    */
+    *//*
+
    public static void main(String[] args)
    {
       try
@@ -42,19 +47,23 @@ public class EntryLogger
       }
    }
 
-   /**
+   */
+/**
     * Constructs an EntryLogger that inserts logging into annotated methods of a given class.
     * @param cg the class
-    */
+    *//*
+
    public EntryLogger(ClassGen cg)
    {
       this.cg = cg;
       cpg = cg.getConstantPool();
    }
 
-   /**
+   */
+/**
     * converts the class by inserting the logging calls.
-    */
+    *//*
+
    public void convert() throws IOException
    {
       for (Method m : cg.getMethods())
@@ -77,11 +86,13 @@ public class EntryLogger
       }
    }
 
-   /**
+   */
+/**
     * Adds an "entering" call to the beginning of a method.
     * @param m the method
     * @param loggerName the name of the logger to call
-    */
+    *//*
+
    private Method insertLogEntry(Method m, String loggerName)
    {
       MethodGen mg = new MethodGen(m, cg.getClassName(), cpg);
@@ -108,3 +119,4 @@ public class EntryLogger
       return mg.getMethod();
    }
 }
+*/

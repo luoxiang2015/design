@@ -1,33 +1,40 @@
+/*
 package com.lx.demo.corejava10.v2ch08.set;
 
 import java.util.*;
 import bytecodeAnnotations.*;
 
+*/
 /**
  * An item with a description and a part number.
  * @version 1.01 2012-01-26
  * @author Cay Horstmann
- */
+ *//*
+
 public class Item
 {
    private String description;
    private int partNumber;
 
-   /**
+   */
+/**
     * Constructs an item.
     * @param aDescription the item's description
     * @param aPartNumber the item's part number
-    */
+    *//*
+
    public Item(String aDescription, int aPartNumber)
    {
       description = aDescription;
       partNumber = aPartNumber;
    }
 
-   /**
+   */
+/**
     * Gets the description of this item.
     * @return the description
-    */
+    *//*
+
    public String getDescription()
    {
       return description;
@@ -54,3 +61,4 @@ public class Item
       return Objects.hash(description, partNumber);
    }
 }
+*/

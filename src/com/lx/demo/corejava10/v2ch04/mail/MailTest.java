@@ -1,18 +1,23 @@
+/*
 package com.lx.demo.corejava10.v2ch04.mail;
 
 import java.io.*;
 import java.nio.charset.*;
 import java.nio.file.*;
 import java.util.*;
-import javax.mail.*;
+*/
+/*import javax.mail.*;
 import javax.mail.internet.*;
-import javax.mail.internet.MimeMessage.RecipientType;
+import javax.mail.internet.MimeMessage.RecipientType;*//*
 
+
+*/
 /**
  * This program shows how to use JavaMail to send mail messages.
  * @author Cay Horstmann
  * @version 1.00 2012-06-04
- */
+ *//*
+
 public class MailTest
 {
    public static void main(String[] args) throws MessagingException, IOException
@@ -57,3 +62,4 @@ public class MailTest
       }
    }
 }
+*/

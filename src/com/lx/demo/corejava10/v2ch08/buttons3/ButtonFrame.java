@@ -2,7 +2,9 @@ package com.lx.demo.corejava10.v2ch08.buttons3;
 
 import java.awt.*;
 import javax.swing.*;
-import runtimeAnnotations.*;
+
+import com.lx.demo.corejava10.v2ch08.runtimeAnnotations.ActionListenerFor;
+import com.lx.demo.corejava10.v2ch08.runtimeAnnotations.ActionListenerInstaller;
 
 /**
  * A frame with a button panel.

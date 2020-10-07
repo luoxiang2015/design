@@ -1,3 +1,4 @@
+/*
 package com.lx.demo.corejava10.v1ch04.PackageTest;
 
 import com.horstmann.corejava.*;
@@ -5,11 +6,13 @@ import com.horstmann.corejava.*;
 
 import static java.lang.System.*;
 
+*/
 /**
  * This program demonstrates the use of packages.
- * @version 1.11 2004-02-19
+ * @version 1.11 2004-02-18
  * @author Cay Horstmann
- */
+ *//*
+
 public class PackageTest
 {
    public static void main(String[] args)
@@ -24,3 +27,4 @@ public class PackageTest
       out.println("name=" + harry.getName() + ",salary=" + harry.getSalary());
    }
 }
+*/

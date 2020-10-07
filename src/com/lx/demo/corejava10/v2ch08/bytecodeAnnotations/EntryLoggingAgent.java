@@ -1,3 +1,4 @@
+/*
 package com.lx.demo.corejava10.v2ch08.bytecodeAnnotations;
 
 import java.lang.instrument.*;
@@ -6,10 +7,12 @@ import java.security.*;
 import org.apache.bcel.classfile.*;
 import org.apache.bcel.generic.*;
 
+*/
 /**
  * @version 1.00 2004-08-17
  * @author Cay Horstmann
- */
+ *//*
+
 public class EntryLoggingAgent
 {
    public static void premain(final String arg, Instrumentation instr)
@@ -39,3 +42,4 @@ public class EntryLoggingAgent
          });
    }
 }
+*/

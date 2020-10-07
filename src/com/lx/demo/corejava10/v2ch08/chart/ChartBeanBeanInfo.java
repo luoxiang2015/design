@@ -1,3 +1,4 @@
+/*
 package com.lx.demo.corejava10.v2ch08.chart;
 public class ChartBeanBeanInfo extends java.beans.SimpleBeanInfo
 {
@@ -34,3 +35,4 @@ public class ChartBeanBeanInfo extends java.beans.SimpleBeanInfo
       }
    }
 }
+*/

@@ -1,13 +1,16 @@
+/*
 package com.lx.demo.corejava10.v1ch08.genericAlgorithms;
 
 import java.lang.reflect.*;
 import java.util.*;
 import java.util.function.*;
 
+*/
 /**
  * @version 1.00 2015-05-21
  * @author Cay Horstmann
- */
+ *//*
+
 public class GenericAlgorithms
 {
    public static void main(String[] args)
@@ -55,3 +58,4 @@ class ArrayAlg
    }      
 }
 
+*/

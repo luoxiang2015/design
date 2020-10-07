@@ -1,540 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1f6e58-5b00-4f97-8df9-78e3f0ab00b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/ducks/DuckTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/ducks/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/iterenum/EI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/iterenum/EnumerationIteratorTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/iterenum/IteratorEnumeration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/adapter/iterenum/IteratorEnumerationTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BPMObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BeatBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BeatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BeatModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BeatModelInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/BeatObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/ControllerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/DJTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/DJView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/HeartAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/HeartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/HeartModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/HeartModelInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combined/djview/HeartTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/adapter/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/composite/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/composite/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/composite/QuackCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/composite/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/decorator/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/decorator/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/ducks/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/ducks/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/ducks/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/DuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/factory/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/.QuackDecorator.java.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/QuackObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/Quackologist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/combining/observer/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/party/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/party/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/party/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/party/StereoOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/party/TVOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/GarageDoorDownCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/remote/StereoOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/simpleremote/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/CeilingFanLowCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/CeilingFanMediumCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/DimmerLightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/DimmerLightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/command/undo/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/composite/menu/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/composite/menuiterator/CompositeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/composite/menuiterator/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/composite/menuiterator/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/composite/menuiterator/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/decorator/starbuzz/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/decorator/starbuzz/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/decorator/starbuzz/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/decorator/starbuzz/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/Amplifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/DvdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/HomeTheaterTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/PopcornPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/TheaterLights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/facade/hometheater/Tuner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/PizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/ThickCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzaaf/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/ChicagoStyleVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/NYStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/NYStyleClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzafm/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzas/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzas/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzas/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/factory/pizzas/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermerger/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermerger/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermerger/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergercafe/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergercafe/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergercafe/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergeri/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergeri/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergeri/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/dinermergeri/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/transition/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/iterator/transition/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/observer/WeatherStation/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/observer/WeatherStation/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/observer/WeatherStation/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/observer/WeatherStation/WeatherStationHeatIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/observer/WeatherStationObservable/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/proxy/gumball/GumballMachineTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/proxy/gumball/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/proxy/gumballmonitor/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/proxy/gumballmonitor/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/proxy/virtualproxy/ImageProxyTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/singleton/chocolate/ChocolateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/singleton/dcl/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/singleton/stat/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/singleton/threadsafe/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumball/GumballMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumballstate/GumballMachineTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumballstate/NoQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumballstate/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumballstatewinner/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/state/gumballstatewinner/WinnerState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/MiniDuckSimulator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/strategy/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/applet/AppletSource.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/applet/MyApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/barista/CaffeineBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/barista/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/barista/CoffeeWithHook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/head/templatemethod/simplebarista/Barista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/DuckAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/DuckTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/Turkey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/TurkeyAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/TurkeyTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/ducks/WildTurkey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/iterenum/EI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/iterenum/EnumerationIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/iterenum/EnumerationIteratorTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/iterenum/IteratorEnumeration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/adapter/iterenum/IteratorEnumerationTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/Goose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/GooseAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/adapter/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/AbstractDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/CountingDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/DuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/Flock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/Goose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/GooseAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/QuackCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/composite/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/Goose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/GooseAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/QuackCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/decorator/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/ducks/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/AbstractDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/CountingDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/DuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/Goose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/GooseAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/QuackCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/factory/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/.QuackDecorator.java.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/AbstractDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/CountingDuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/DuckCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/DuckFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/DuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Flock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Goose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/GooseAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Observable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/QuackCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/QuackObservable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Quackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/Quackologist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/RedheadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/combining/observer/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/CeilingFan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/CeilingFanHighCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/CeilingFanMediumCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/CeilingFanOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/Hottub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/HottubOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/HottubOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/Light.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/LightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/LightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/LivingroomLightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/LivingroomLightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/MacroCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/NoCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/RemoteControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/RemoteLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/Stereo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/StereoOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/StereoOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/StereoOnWithCDCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/TV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/TVOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/party/TVOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/CeilingFan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/CeilingFanOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/CeilingFanOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/GarageDoor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/GarageDoorDownCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/GarageDoorUpCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/Hottub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/HottubOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/HottubOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/Light.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/LightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/LightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/LivingroomLightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/LivingroomLightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/NoCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/RemoteControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/RemoteLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/Stereo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/StereoOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/StereoOnWithCDCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/remote/TV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/GarageDoor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/GarageDoorOpenCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/Light.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/LightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/LightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/RemoteControlTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/simpleremote/SimpleRemoteControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFanHighCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFanLowCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFanMediumCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFanOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/CeilingFanOnCommand.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/DimmerLightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/DimmerLightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/Light.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/LightOffCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/LightOnCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/NoCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/RemoteControlWithUndo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/command/undo/RemoteLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menu/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menu/MenuComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menu/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menu/MenuTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menu/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/CompositeIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/MenuComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/MenuTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/NullIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/composite/menuiterator/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/io/InputTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/io/LowerCaseInputStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Beverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/CondimentDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/DarkRoast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Decaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Espresso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/HouseBlend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Milk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Mocha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Soy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/StarbuzzCoffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/decorator/starbuzz/Whip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/BlackOlives.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Cheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/CheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ChicagoPizzaIngredientFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ChicagoPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Clams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Dough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Eggplant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/FreshClams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/FrozenClams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Garlic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/MarinaraSauce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/MozzarellaCheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Mushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/NYPizzaIngredientFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/NYPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Onion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ParmesanCheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Pepperoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/PepperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/PizzaIngredientFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/PizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/PizzaTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/PlumTomatoSauce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/RedPepper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ReggianoCheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Sauce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/SlicedPepperoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Spinach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ThickCrustDough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/ThinCrustDough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/VeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzaaf/Veggies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/ChicagoPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/ChicagoStyleCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/ChicagoStyleClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/ChicagoStylePepperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/ChicagoStyleVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/DependentPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/NYPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/NYStyleCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/NYStyleClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/NYStylePepperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/NYStyleVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/PizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzafm/PizzaTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/CheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/ClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/PepperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/PizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/PizzaTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/SimplePizzaFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/factory/pizzas/VeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/AlternatingDinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/ArrayIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/ArrayListIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/DinerMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/DinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/Iterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/MenuTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/PancakeHouseMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/PancakeHouseMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermerger/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/AlternatingDinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/CafeMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/DinerMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/DinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/MenuTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/PancakeHouseMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergercafe/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/AlternatingDinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/DinerMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/DinerMenuIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/MenuTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/PancakeHouseMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/dinermergeri/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/transition/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/transition/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/iterator/transition/Waitress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/Swing/SwingObserverExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/CurrentConditionsDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/DisplayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/ForecastDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/HeatIndexDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/StatisticsDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/WeatherData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/WeatherStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStation/WeatherStationHeatIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/CurrentConditionsDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/DisplayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/ForecastDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/HeatIndexDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/StatisticsDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/WeatherData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/WeatherStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/observer/WeatherStationObservable/WeatherStationHeatIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/GumballMachineRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/GumballMachineTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/GumballMonitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/GumballMonitorTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/HasQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/NoQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/SoldOutState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/SoldState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumball/WinnerState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/GumballMachineTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/GumballMonitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/HasQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/NoQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/SoldOutState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/SoldState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/gumballmonitor/WinnerState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/javaproxy/MatchMakingTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/javaproxy/NonOwnerInvocationHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/javaproxy/OwnerInvocationHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/javaproxy/PersonBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/javaproxy/PersonBeanImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/virtualproxy/ImageComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/virtualproxy/ImageProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/proxy/virtualproxy/ImageProxyTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/chocolate/ChocolateBoiler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/chocolate/ChocolateController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/classic/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/dcl/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/dcl/SingletonClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/stat/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/stat/SingletonClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/subclass/CoolerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/subclass/HotterSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/subclass/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/subclass/SingletonTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/singleton/threadsafe/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumball/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumball/GumballMachineTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/GumballMachineTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/HasQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/NoQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/SoldOutState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/SoldState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstate/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/GumballMachineTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/HasQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/NoQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/SoldOutState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/SoldState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/state/gumballstatewinner/WinnerState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/FakeQuack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/FlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/FlyNoWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/FlyRocketPowered.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/FlyWithWings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/MiniDuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/MiniDuckSimulator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/ModelDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/MuteQuack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/Quack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/QuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/RedHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/RubberDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/strategy/Squeak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/applet/AppletSource.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/applet/MyApplet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/BeverageTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/CaffeineBeverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/CaffeineBeverageWithHook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/CoffeeWithHook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/Tea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/barista/TeaWithHook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/frame/MyFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/simplebarista/Barista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/simplebarista/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/simplebarista/Tea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/sort/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/templatemethod/sort/DuckSortTestDrive.java" beforeDir="false" />
+    <list default="true" id="ba1f6e58-5b00-4f97-8df9-78e3f0ab00b4" name="Default Changelist" comment="结构调整">
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch04/PackageTest/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch04/PackageTest/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch08/genericAlgorithms/GenericAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch08/genericAlgorithms/GenericAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch13/serviceLoader/impl/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch13/serviceLoader/impl/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch04/mail/MailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch04/mail/MailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/buttons3/ButtonFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/buttons3/ButtonFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBeanBeanInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBeanBeanInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/TitlePositionEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/TitlePositionEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/sourceAnnotations/BeanInfoAnnotationProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/sourceAnnotations/BeanInfoAnnotationProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -556,15 +57,60 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lx/demo/head/facade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lx/demo/corejava10" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LX\zip\demo\design\src\com\lx\demo\corejava10" />
+      <recent name="D:\LX\zip\demo\design\src\com\lx\demo\head\facade" />
+      <recent name="D:\LX\zip\demo\design\src\com\lx\demo\head\combined" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountLongWords">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration name="CountLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.demo.corejava10.v2ch01.streams.CountLongWords" />
+      <module name="design" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.demo.corejava10.v2ch01.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.demo.head.combining.composite.DuckSimulator" />
+      <module name="design" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.demo.head.combining.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -575,6 +121,53 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="design" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="design" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -597,6 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountLongWords" />
+        <item itemvalue="Application.DuckSimulator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -612,17 +211,147 @@
       <workItem from="1601341606539" duration="10000" />
       <workItem from="1601341703787" duration="822000" />
       <workItem from="1601377995264" duration="80000" />
-      <workItem from="1601824932345" duration="291000" />
+      <workItem from="1601824932345" duration="955000" />
+      <workItem from="1601825936349" duration="405000" />
+      <workItem from="1601826377829" duration="357000" />
+      <workItem from="1601826854516" duration="1023000" />
+      <workItem from="1601987269516" duration="1628000" />
+      <workItem from="1601988956439" duration="121000" />
+      <workItem from="1601989118085" duration="1957000" />
+      <workItem from="1602039444888" duration="2537000" />
     </task>
+    <task id="LOCAL-00001" summary="结构调整">
+      <created>1601825321731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601825321731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="结构调整">
+      <created>1601825455042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601825455042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="删除冗余代码">
+      <created>1601987456138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601987456138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add coreJava10">
+      <created>1602056974315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056974316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="结构调整" />
+    <MESSAGE value="删除冗余代码" />
+    <MESSAGE value="add coreJava10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add coreJava10" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="146" width="600" height="532" key="find.popup" timestamp="1601341844920">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="363" y="386" key="#Notifications" timestamp="1601988994151">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="363" y="386" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1601988994151" />
+    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602058282685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602058282685" />
+    <state x="351" y="374" width="490" height="599" key="#xdebugger.evaluate" timestamp="1602058187509">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="351" y="374" width="490" height="599" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1602058187509" />
+    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1602056964440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602056964440" />
+    <state x="278" y="282" key="FileChooserDialogImpl" timestamp="1602057551975">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="278" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602057551975" />
+    <state width="1056" height="339" key="GridCell.Tab.0.bottom" timestamp="1602058065496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
+    <state width="1056" height="339" key="GridCell.Tab.0.center" timestamp="1602058065496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
+    <state width="1056" height="339" key="GridCell.Tab.0.left" timestamp="1602058065496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
+    <state width="1056" height="339" key="GridCell.Tab.0.right" timestamp="1602058065496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
+    <state width="1056" height="339" key="GridCell.Tab.1.bottom" timestamp="1602058065917">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
+    <state width="1056" height="339" key="GridCell.Tab.1.center" timestamp="1602058065917">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
+    <state width="1056" height="339" key="GridCell.Tab.1.left" timestamp="1602058065917">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
+    <state width="1056" height="339" key="GridCell.Tab.1.right" timestamp="1602058065917">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1056" height="339" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1602058301500">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602058301500" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602056979790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602056979790" />
+    <state x="723" y="204" width="750" height="678" key="find.popup" timestamp="1602057595234">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="468" y="146" width="600" height="532" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601341844920" />
+    <state x="723" y="204" width="750" height="678" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602057595234" />
+    <state x="430" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1601991083728">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="430" y="248" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1601991083728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../java/jdk/src.zip!/java/nio/file/Paths.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
