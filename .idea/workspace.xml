@@ -19,23 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1f6e58-5b00-4f97-8df9-78e3f0ab00b4" name="Default Changelist" comment="结构调整">
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ba1f6e58-5b00-4f97-8df9-78e3f0ab00b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/corejava10.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch04/PackageTest/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch04/PackageTest/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch08/genericAlgorithms/GenericAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch08/genericAlgorithms/GenericAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch13/serviceLoader/impl/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v1ch13/serviceLoader/impl/CaesarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch04/mail/MailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch04/mail/MailTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/buttons3/ButtonFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/buttons3/ButtonFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBeanBeanInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/ChartBeanBeanInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/TitlePositionEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/chart/TitlePositionEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/set/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/sourceAnnotations/BeanInfoAnnotationProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lx/demo/corejava10/v2ch08/sourceAnnotations/BeanInfoAnnotationProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.iml" beforeDir="false" afterPath="$PROJECT_DIR$/head.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +52,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +74,6 @@
     <configuration name="CountLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lx.demo.corejava10.v2ch01.streams.CountLongWords" />
       <module name="design" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lx.demo.corejava10.v2ch01.streams.*" />
@@ -190,6 +176,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CountLongWords" />
+      <item itemvalue="Application.DuckSimulator" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CountLongWords" />
@@ -218,7 +208,7 @@
       <workItem from="1601987269516" duration="1628000" />
       <workItem from="1601988956439" duration="121000" />
       <workItem from="1601989118085" duration="1957000" />
-      <workItem from="1602039444888" duration="2537000" />
+      <workItem from="1602039444888" duration="2922000" />
     </task>
     <task id="LOCAL-00001" summary="结构调整">
       <created>1601825321731</created>
@@ -248,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602056974316</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix corejava10 package error">
+      <created>1602058375782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602058375782</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,69 +267,74 @@
     <MESSAGE value="结构调整" />
     <MESSAGE value="删除冗余代码" />
     <MESSAGE value="add coreJava10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add coreJava10" />
+    <MESSAGE value="fix corejava10 package error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix corejava10 package error" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="244" y="142" key="#CountLongWords" timestamp="1602058552135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="244" y="142" key="#CountLongWords/0.0.1920.1050@0.0.1920.1050" timestamp="1602058552135" />
     <state x="363" y="386" key="#Notifications" timestamp="1601988994151">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="363" y="386" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1601988994151" />
-    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602058282685">
+    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602058513439">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602058282685" />
+    <state x="71" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602058513439" />
     <state x="351" y="374" width="490" height="599" key="#xdebugger.evaluate" timestamp="1602058187509">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="351" y="374" width="490" height="599" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1602058187509" />
-    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1602056964440">
+    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1602058370863">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602056964440" />
-    <state x="278" y="282" key="FileChooserDialogImpl" timestamp="1602057551975">
+    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602058370863" />
+    <state x="278" y="282" key="FileChooserDialogImpl" timestamp="1602058471620">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="278" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602057551975" />
-    <state width="1056" height="339" key="GridCell.Tab.0.bottom" timestamp="1602058065496">
+    <state x="278" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602058471620" />
+    <state width="1056" height="339" key="GridCell.Tab.0.bottom" timestamp="1602058663201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
-    <state width="1056" height="339" key="GridCell.Tab.0.center" timestamp="1602058065496">
+    <state width="1056" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058663201" />
+    <state width="1056" height="339" key="GridCell.Tab.0.center" timestamp="1602058663201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
-    <state width="1056" height="339" key="GridCell.Tab.0.left" timestamp="1602058065496">
+    <state width="1056" height="339" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058663201" />
+    <state width="1056" height="339" key="GridCell.Tab.0.left" timestamp="1602058663201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
-    <state width="1056" height="339" key="GridCell.Tab.0.right" timestamp="1602058065496">
+    <state width="1056" height="339" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058663201" />
+    <state width="1056" height="339" key="GridCell.Tab.0.right" timestamp="1602058663201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065496" />
-    <state width="1056" height="339" key="GridCell.Tab.1.bottom" timestamp="1602058065917">
+    <state width="1056" height="339" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058663201" />
+    <state width="1056" height="339" key="GridCell.Tab.1.bottom" timestamp="1602058662357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
-    <state width="1056" height="339" key="GridCell.Tab.1.center" timestamp="1602058065917">
+    <state width="1056" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602058662357" />
+    <state width="1056" height="339" key="GridCell.Tab.1.center" timestamp="1602058662354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
-    <state width="1056" height="339" key="GridCell.Tab.1.left" timestamp="1602058065917">
+    <state width="1056" height="339" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602058662354" />
+    <state width="1056" height="339" key="GridCell.Tab.1.left" timestamp="1602058662354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
-    <state width="1056" height="339" key="GridCell.Tab.1.right" timestamp="1602058065917">
+    <state width="1056" height="339" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602058662354" />
+    <state width="1056" height="339" key="GridCell.Tab.1.right" timestamp="1602058662354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1056" height="339" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058065917" />
-    <state x="461" y="156" key="SettingsEditor" timestamp="1602058301500">
+    <state width="1056" height="339" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602058662354" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1602058686376">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602058301500" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602056979790">
+    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602058686376" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602058380555">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602056979790" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602058380555" />
     <state x="723" y="204" width="750" height="678" key="find.popup" timestamp="1602057595234">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
